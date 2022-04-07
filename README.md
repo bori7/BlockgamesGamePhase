@@ -1,4 +1,8 @@
-# 🏗 scaffold-eth | 🏰 BuidlGuidl
+# 🏗 Install
+[Open With Gitpod](https://gitpod.io/#https://github.com/kingzamzon/BlockgamesGamePhase/tree/stage_1)
+
+# Tools 
+- https://www.npmjs.com/package/react-papaparse 
 
 ## 🚩 Challenge 2: 🏵 Token Vendor 🤖
 
