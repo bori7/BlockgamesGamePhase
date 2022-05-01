@@ -14,8 +14,9 @@ Customers should not have to claim their rewards. They should be sent directly t
 ###  📦 install 📚
 
 ```bash
-git clone https://github.com/Epic-Byte/NestCoinFullStack
-cd NestCoinFullStack
+git clone https://github.com/bori7/BlockgamesGamePhase.git
+cd BlockgamesGamePhase
+git checkout stage_1
 yarn install
 ```
 
