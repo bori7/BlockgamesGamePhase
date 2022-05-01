@@ -1,5 +1,5 @@
 
-### Deplyed product
+### Deployed product
 
  -- https://nestcoin_appadmin_new.surge.sh/
 
